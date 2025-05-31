@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gabrielajussana/automationexercise-tests#readme",
   "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
     "cypress": "^14.4.0"
   }
 }
